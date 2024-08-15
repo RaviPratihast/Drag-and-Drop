@@ -1,7 +1,12 @@
-import React from "react";
+// src/App.jsx
+import CardPage from "./Components/CardPage/CardPage";
 
-const App = () => {
-  return <div>App</div>;
-};
+function App() {
+  return (
+    <div className="App">
+      <CardPage />
+    </div>
+  );
+}
 
 export default App;
