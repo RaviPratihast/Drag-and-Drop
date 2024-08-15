@@ -1,4 +1,3 @@
-// src/components/Canvas.jsx
 import { useState } from "react";
 import { ArcherContainer, ArcherElement } from "react-archer";
 import Card from "../Cards/Cards";
